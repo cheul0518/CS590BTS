@@ -33,3 +33,8 @@ Decentralization in Bitcoin and Ethereum
       2. The Bitcoin network is geographically more clustered than Ethereum
       3. Ethereum has lower mining power utilizations that Bitcoin and would benefit from a relay network
       4. Small miners experience more volatility in block rewards in Bitcoin than Ethereum
+
+3. Bitcoin and Ethereum
+  - Bitcoin and Ethereum use Nakamoto consesus to regulate transaction serialization in their blockchains
+  - But they're significantly different in terms of their API, abstractions, and wire protocol
+  - The Bitcoin Protocol
