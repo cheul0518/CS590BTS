@@ -1,5 +1,5 @@
-#### Helpful resources for my presentation
-- Other resources
-  - Bitcoin Cash
-  - Ethereum Classic
-  - Ripple
+#### Helpful other resources for my presentation
+ - Bitcoin Cash
+ - Ethereum Classic
+ - Litecoin
+ - Ripple
