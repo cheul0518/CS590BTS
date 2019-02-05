@@ -11,3 +11,25 @@ Decentralization in Bitcoin and Ethereum
   - The paper suggests how to improve both systems
 
 2. Introduction
+  - Bitcoin and Ethereum account for over 70% of cryptocurrency market.
+  - The blockchain technology achieves consensus in a decentralized, open system and enables innovation in industries
+  that conventionally relied upon trusted authorities: land record managemen, domain name registration, voting, etc
+  - Decentralization is the key feature that empowers such services and makes these platforms interesting
+  - Decentralization is a property regarding the fragmentation of control over the protocol
+  - In other words, better decentraliazation of miners means higher resistance against censorship of individual transactions
+  - This paper presents a comprehensive measurement study on decentralization metrics in these operational systems and
+  shed light on whether or not existing assumptions are satisfied in practice. This approach is different from the traditional
+  approaches that are based on assumptions.
+  - This research sources are
+    1. Direct measurements of these networks from multiple vantage points
+    2. A Bitcoin relay network called Falcon that the researcher deplyed and operated for a year
+    3. Blockchain histories of Bitcoin and Ethereum
+  - The research findings regards the network properties, impact of  protocol requirements, security, and client interactions
+  - The paper makes three contribution
+    1. Providing new tools and techniques for measuring blockchain-based cryptocurry networks: Falcon relay network 
+    2. Performing a comparative study of decentralization metrics in Bitcoin and Ethereum. Key findings are
+      1. The Bitcoin network can increased the bandwidth requirements for nodes by a factor of 1.7 and keep the same level
+      of decentralization as 2016
+      2. The Bitcoin network is geographically more clustered than Ethereum
+      3. Ethereum has lower mining power utilizations that Bitcoin and would benefit from a relay network
+      4. Small miners experience more volatility in block rewards in Bitcoin than Ethereum
