@@ -1,3 +1,13 @@
 Decentralization in Bitcoin and Ethereum
 1. Abstract
-  - This paper presnets a measurement study on various decentralization metrics of two of the leading cryptocurries with the largest market capitalization and the userbase, Bitcoin and Ethereum.
+  - This paper presnets a measurement study on various decentralization metrics of two of the leading cryptocurries 
+  with the largest market capitalization and the userbase, Bitcoin and Ethereum.
+  - How to investigate the extent of decentralization? Measuring...
+    1. The network resources of nodes and the interconnections among them
+    2. The protocol requirements affecting the operation of nodes
+    3. The robustness of the two systems against attacks.
+    - Particulary Falcon Relay Network as a novel measurement tool
+  - The paper concludes neither Bitcoin nor Ethereum has strictly better properties that the other
+  - The paper suggests how to improve both systems
+
+2. Introduction
