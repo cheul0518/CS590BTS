@@ -1,0 +1,19 @@
+### Hyperledger Fabric 1.1 SetUp: Mac
+
+<br />
+
+1. Prerequsites
+
+   1. cURL: it's already installed if you're using Mac
+   <br />
+   
+   2. Docker and Docker Compose: https://hub.docker.com/editions/community/docker-ce-desktop-mac
+   - Don't forget to check its version after you've installed Docker: "docker --version"
+   - Check the version of Docker Compose: "docker-compose --version"
+   <br />
+   
+   3. Go Programming Language: https://golang.org/doc/install
+   - After you've installed Go package, check the $GOPATH variable: it defaults to a directory named "go" insdie your home directory (e.g. /Users/USERNAME/go/). By the way you check it by typing "go env"
+   - For convenience, add the workstation's bin subdirectory to your path: "$ export PATH=$PATH:$(go env GOPATH)/bin"
+   - Type $ export GOPATH=$(go env GOPATH) for the convienece. You can now use $GOPATH instead of $(go env GOPATH)
+   
