@@ -4,7 +4,7 @@
 
 1. Prerequsites
 
-   1. cURL: it's already installed if you're using Mac
+   1. cURL: it's already installed if you're using Mac. Skip this process
    <br />
    
    2. Docker and Docker Compose: https://hub.docker.com/editions/community/docker-ce-desktop-mac
@@ -22,5 +22,11 @@
    4. Node.js Runtime and NPM: https://nodejs.org/en/download/
    - Check Node.js version: "node -v"
    - Check npm version: "npm -v"
+   <br />
+   
+   5. Python: it's already installed if you're using Mac. Skip this process
+   <br />
+   
+2. Hyperledger Fabric Samples
    
    
