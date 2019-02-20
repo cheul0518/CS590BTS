@@ -16,4 +16,5 @@
    - After you've installed Go package, check the $GOPATH variable: it defaults to a directory named "go" insdie your home directory (e.g. /Users/USERNAME/go/). By the way you can check it by typing "go env" and looking up the enviroment variable there
    - Add the workstation's bin subdirectory to your path: "export PATH=$PATH:$(go env GOPATH)/bin" (for convenience)
    - Type "export GOPATH=$(go env GOPATH)". So you can now use $GOPATH instead of $(go env GOPATH) (for convenience)
+   - Feel free to check your GO by compiling and running a simple program given on the website.
    
