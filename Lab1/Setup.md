@@ -1,7 +1,5 @@
 ### Hyperledger Fabric 1.1 SetUp: Mac
 
-<br />
-
 1. Prerequsites
 
    1. cURL: it's already installed if you're using Mac
