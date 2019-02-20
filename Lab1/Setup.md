@@ -15,4 +15,10 @@
    - Add the workstation's bin subdirectory to your path: "export PATH=$PATH:$(go env GOPATH)/bin" (for convenience)
    - Type "export GOPATH=$(go env GOPATH)". So you can now use $GOPATH instead of $(go env GOPATH) (for convenience)
    - Feel free to check your GO by compiling and running a simple program given on the website.
+   <br />
+
+   4. Node.js Runtime and NPM: https://nodejs.org/en/download/
+   - Check Node.js version: "node -v"
+   - Check npm version: "npm -v"
+   
    
