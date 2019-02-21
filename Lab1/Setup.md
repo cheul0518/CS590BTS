@@ -27,6 +27,13 @@
    5. Python: it's already installed if you're using Mac. Skip this process
    <br />
    
-2. Hyperledger Fabric Samples
+2. Install Binaries and Docker Images
+```c
+curl -sSL https://goo.gl/6wtTN5 | bash -s <fabric> <fabric-ca> <thirdparty>
+curl -sSL https://goo.gl/6wtTN5 | bash -s 1.1.0 1.1.0 0.4.6
+```
+   - You may want to add that to your PATH environment variables: "export PATH=<path to download location>/bin:$PATH"
    
+3. Hyperledger Fabric Samples
+   1. 
    
