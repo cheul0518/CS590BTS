@@ -36,6 +36,10 @@ curl -sSL https://goo.gl/6wtTN5 | bash -s 1.1.0 1.1.0 0.4.6
    <br />
    
 3. Hyperledger Fabric Samples
-
-   1. Hi
+```c
+git clone -b release-1.1 https://github.com/hyperledger/fabric-samples.git
+git clone -b master https://github.com/hyperledger/fabric-samples.git
+cd fabric-samples
+git checkout {TAG}
+```
    
