@@ -22,7 +22,7 @@
 
 - Task 1.3 Run Sample Chaincodes
 
-        - 
+    - The chaincode succesfully runs as well as querying and invoking.
 
 <img src = "Images/task131.png">
 
