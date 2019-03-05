@@ -37,7 +37,7 @@
 
     - The goal is to write my own chaincodes for supplier, manufacturer, dealer, and car. There are six functions: AddComponent(), TransferComponent(), MountComponent(), ReplaceComponent(), RecallComponent(), CheckComponent(). And they are supposed to be accessible under different endorsement policies. 
     
-    - Here is how they work. Supplier builds a component, and transfer it to a manufacturer. The manufacturer either mounts this component to a car or transfers it to a dealer. There would be as well a chance the manucaturer will replace the component with another one. The car dealer either transfers it to a car or replace it with another one. The car checks itself only.
+    - Here is how they work. Supplier builds a component, and transfers it to a manufacturer. The manufacturer either mounts this component to a car or transfers it to a dealer. There would be as well a chance the manucaturer will replace the component with another one. The car dealer either transfers it to a car or replace it with another one. The car checks itself only.
 
 
 
