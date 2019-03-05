@@ -18,7 +18,7 @@
 
 <img src = "Images/task121.png">
 
-<img src = "Images/task123.png">
+<img src = "Images/task122.png">
 
 - Task 1.3 Run Sample Chaincodes
 
