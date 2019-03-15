@@ -8,9 +8,9 @@ How to set up
 
 4. geth: https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac
 
-5. truffle (local) -> alias (.bash_profile)
+5. truffle 5.0.2 (local) -> alias (.bash_profile)
 
-6. ganache-cli (local) -> alias (.bash_profile)
+6. ganache-cli@beta (local) -> alias (.bash_profile)
 
 7. solc-js (local)
 
